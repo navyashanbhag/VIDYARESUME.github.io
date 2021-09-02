@@ -1,0 +1,159 @@
+h2{
+    Color:rgb(172, 30, 30);
+}
+h3{
+    color:rgb(172, 24, 24);
+}
+#pro{
+    height:5px;
+    background-color:  rgb(218, 146, 13);
+}
+#edu{
+    height:5px;
+    background-color:  rgb(218, 146, 13);
+}
+#mos{
+    height:5px;
+    background-color: rgb(218, 146, 13);
+}
+#ext{
+    height:5px;
+    background-color:  rgb(218, 146, 13);
+}
+h4{
+    color:rgb(170, 19, 19);
+}
+h5{
+    color:rgb(170, 19, 19);
+}
+#learn{
+    color: rgb(170, 19, 19);
+}
+#word{
+    color:black;
+}
+#voting
+{
+    color:black;
+}
+#residents{
+    color: black;
+}
+#camp{
+    color: black;
+}
+#Ugetin{
+    color: black;
+}
+#Scholarship{
+    color: black;
+}
+#proud{
+    text-align:right;
+}
+#projects{
+    margin: 0%;
+}
+#extra{
+    margin: 0%;
+}
+#most{
+    margin:0%
+}
+#vishwa{
+    color: black;
+}
+#education{
+    margin: 0%;
+}
+#profile{
+    text-align: center;
+}
+#name{
+    text-align: center;
+}
+#learn{
+    text-align: center;
+}
+#name{
+    margin: 0%;
+}
+#learn{
+    margin: 0%;
+}
+img{
+    width: 125px;
+    height: 125px;
+}
+#be{
+    color: black;
+}
+#oxford
+   {
+    color:rgb(170, 19, 19);
+}
+#present{
+    color:black
+}
+#puc{
+    color: black;
+}
+#beena
+   {
+    color:rgb(170, 19, 19);
+}
+#college{
+    color:black
+}
+#sslc{
+    color: black;
+}
+#mazarello
+   {
+    color:rgb(170, 19, 19);
+}
+#school{
+    color:black
+}
+#ski{
+    height:5px;
+    background-color: rgb(218, 146, 13);
+}
+#skills{
+    margin: 0%;
+}
+#tec{
+    color: black;
+}
+#c{
+    color: black;
+}
+#lan{
+    color: black;
+}
+#en{
+    color: black;
+}
+img{
+    border-radius: 50%;
+}
+#word{
+    margin: 0%;
+}
+#camp{
+    margin: 0%;
+}
+#be{
+    margin: 0%;
+}
+#tec{
+    margin: 0%;
+}
+.timeline .event + .event {
+    padding-top: 1rem;
+}
+.resume {
+    display:grid;
+    grid-template-columns: 60% 1fr;
+    grid-gap: 4rem;
+}
